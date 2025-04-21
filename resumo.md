@@ -1,4 +1,6 @@
 - variavel: espaço em memoria que guarda um valor
+- print: ele mostra na tela
+- input: pega o que o usuario digitou
 
 # Tipos primitivos:
 	- int: um numero inteiro
@@ -8,3 +10,18 @@
 	
 - git: realiza a versão do codigo
 - github: guarda e compartilha as versões
+
+# operadores: 
+- \+ adição
+- \- subtração
+- \* multiplicação
+- / divisão
+- ** potencia
+- // divisão inteira
+- % resto da divisão
+
+# Ordem da precendencia
+1) ()
+2) **
+3) *, /, //, %
+4) +, -
